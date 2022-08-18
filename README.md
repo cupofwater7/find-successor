@@ -1,5 +1,7 @@
+                                                Coding Interview Questions     
 # find-successor
 
+Difficulty: medium
 
   Write a function that takes in a Binary Tree (where nodes have an additional
   pointer to their parent node) as well as a node contained in that tree and
